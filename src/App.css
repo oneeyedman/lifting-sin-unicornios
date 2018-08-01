@@ -1,0 +1,13 @@
+body {
+  margin: 30px;
+  text-align: center;
+}
+.form__field {
+  font: inherit;
+  font-size: 50px;
+}
+.field__text {
+  border: 1px solid cyan;
+  padding: 20px;
+  font-size: 40px;
+}
